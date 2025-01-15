@@ -15,4 +15,4 @@ Data Transformation and Conditional Logic
 
 This project demonstrates how Excel can be used for data mining, transforming raw sales data into actionable insights, while practicing key Excel techniques like lookup functions and pivot table analysis.
 
-Excel Link https://github.com/siddhi197/Excel-Data-Analysis/blob/ed224afaf598cf4d63c023957b4732fcffcc6072/sales_data_analysis.xlsx
+Excel Link <a href="https://github.com/siddhi197/Excel-Data-Analysis/blob/ed224afaf598cf4d63c023957b4732fcffcc6072/sales_data_analysis.xlsx"> aa</a>
