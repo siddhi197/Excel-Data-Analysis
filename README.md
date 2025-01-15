@@ -14,3 +14,5 @@ Pivot Tables and Charts
 Data Transformation and Conditional Logic
 
 This project demonstrates how Excel can be used for data mining, transforming raw sales data into actionable insights, while practicing key Excel techniques like lookup functions and pivot table analysis.
+
+Excel Link sales_data_analysis.xlsx
